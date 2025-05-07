@@ -1,5 +1,5 @@
-## _i'm ryan._ 
-#### currently building my skills in c#, typescript, and some frameworks like angular and electron!
+## _hello_ 
+#### currently building my skills in c#
 
 <!--
 **szafranic/szafranic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
